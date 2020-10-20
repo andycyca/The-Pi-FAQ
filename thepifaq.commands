@@ -1,0 +1,2 @@
+pandoc -o thepifaq.md -s --reference-links thepifaq.md
+pandoc -o thepifaq.html -s -N --toc thepifaq.md
